@@ -27,7 +27,7 @@ Mon objectif est simple : apprendre toujours plus, expérimenter, et créer des 
 | Projet | Description | Technologies |
 |---------|--------------|---------------|
 | Reconstruction d’images (U-Net) *(à venir)* | Développement d’un modèle de Deep Learning pour reconstituer des images masquées du dataset CIFAR-10. | PyTorch |
-| [Désambiguïsation d’inventeurs dans les brevets]((https://github.com/Iyad-78/Desambiguisation-d-inventeurs-dans-les-bases-de-donnees-de-brevets)) | Conception d’un pipeline Python/SQL pour regrouper automatiquement les différentes mentions d’un même inventeur dans une base de plusieurs millions de brevets. | Python, SQL Server |
+| [Désambiguïsation d’inventeurs dans les brevets](https://github.com/Iyad-78/Desambiguisation-d-inventeurs-dans-les-bases-de-donnees-de-brevets)) | Conception d’un pipeline Python/SQL pour regrouper automatiquement les différentes mentions d’un même inventeur dans une base de plusieurs millions de brevets. | Python, SQL Server |
 | [Analyse de sentiments sur Twitter](https://github.com/Iyad-78/Spark-Scala-Project-Sentiment-Analysis-from-a-Twitter-Dataset-) | Classification automatique de tweets (positif, neutre, négatif) à l’aide de Spark MLlib. | Spark, Scala |
 
 
