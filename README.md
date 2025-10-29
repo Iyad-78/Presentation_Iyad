@@ -8,14 +8,17 @@ Je m’intéresse particulièrement à la **modélisation**, à la **compréhens
 
 ## À propos de moi
 
-J’ai toujours eu ce besoin de comprendre comment les choses fonctionnent.  
-Les données, les modèles et les algorithmes sont pour moi des moyens de **poser les bonnes questions** et d’y répondre avec logique et créativité.  
+Depuis toujours, j’ai ce réflexe de vouloir comprendre comment les choses marchent — démonter, observer, relier.
+Avec le temps, cette curiosité s’est transformée en une vraie passion pour la donnée : comprendre ce qu’elle cache, ce qu’elle révèle, et comment elle peut aider à mieux décider.
 
-Je me considère comme un profil à la croisée de la **rigueur scientifique** et de la **curiosité technique**.  
-Au fil de mes projets, j’ai appris à naviguer entre :
-- la programmation et l’architecture logicielle,  
-- la modélisation mathématique et statistique,  
-- et la recherche d’innovation, là où la donnée devient un véritable outil d’aide à la décision.  
+J’aime la logique des algorithmes autant que la créativité qu’il faut pour résoudre un problème réel.
+Pour moi, la data science n’est pas qu’une histoire de modèles ou de code : c’est une manière de donner du sens à la complexité et de transformer une idée en quelque chose de concret et utile.
+
+Ce que je cherche avant tout, c’est cet équilibre entre la rigueur scientifique et la curiosité technique.
+J’aime concevoir des outils, tester des approches, et surtout comprendre pourquoi certaines fonctionnent mieux que d’autres.
+
+Aujourd’hui à CY Tech, je me spécialise en Intelligence Artificielle et Data Science.
+Mon objectif est simple : apprendre toujours plus, expérimenter, et créer des solutions fiables, claires et intelligentes — des projets qui parlent autant aux ingénieurs qu’aux utilisateurs.
 
 ---
 
@@ -24,18 +27,23 @@ Au fil de mes projets, j’ai appris à naviguer entre :
 | Projet | Description | Technologies |
 |---------|--------------|---------------|
 | Reconstruction d’images (U-Net) *(à venir)* | Développement d’un modèle de Deep Learning pour reconstituer des images masquées du dataset CIFAR-10. | PyTorch |
-| [Désambiguïsation d’inventeurs dans les brevets](https://github.com/Iyad-78/Desambiguisation-Inventeurs) | Conception d’un pipeline Python/SQL pour regrouper automatiquement les différentes mentions d’un même inventeur dans une base de plusieurs millions de brevets. | Python, SQL Server |
+
+| [Désambiguïsation d’inventeurs dans les brevets]((https://github.com/Iyad-78/Desambiguisation-d-inventeurs-dans-les-bases-de-donnees-de-brevets)) | Conception d’un pipeline Python/SQL pour regrouper automatiquement les différentes mentions d’un même inventeur dans une base de plusieurs millions de brevets. | Python, SQL Server |
+
 | [Analyse de sentiments sur Twitter](https://github.com/Iyad-78/Spark-Scala-Project-Sentiment-Analysis-from-a-Twitter-Dataset-) | Classification automatique de tweets (positif, neutre, négatif) à l’aide de Spark MLlib. | Spark, Scala |
-| [Création et gestion d’un arbre généalogique](https://github.com/Iyad-78/Creation-et-gestion-d-un-arbre-genealogique) | Application Java permettant de modéliser et visualiser dynamiquement des relations familiales. | Java |
+
 
 ---
 
 ## En quelques mots
 
-Je suis convaincu que la donnée n’a de valeur que si elle **permet de comprendre, d’améliorer ou d’innover**.  
-Dans chacun de mes projets, j’essaie de **rendre les résultats clairs, pertinents et exploitables**, tout en cherchant à apprendre quelque chose de nouveau.  
+Pour moi, la donnée n’a de sens que si elle sert à comprendre et à faire progresser les choses.
+Chaque projet est l’occasion d’apprendre, de tester, et surtout de transformer une idée en résultat concret.
 
-Je poursuis actuellement ma formation à **CY Tech**, où j’explore les domaines de la **data science**, du **machine learning** et du **développement logiciel**, avec la volonté de créer des solutions à la fois **utiles et élégantes**.  
+J’aime que mes analyses soient claires, que mes modèles soient utiles, et que mes outils racontent quelque chose de cohérent.
+C’est cette approche qui me guide aujourd’hui dans mon parcours à CY Tech, où je me forme en data science, en machine learning et en développement logiciel.
+
+Mon objectif : concevoir des solutions fiables, intelligentes et accessibles, capables de rendre la donnée vraiment parlante.
 
 ---
 
