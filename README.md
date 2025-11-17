@@ -4,7 +4,6 @@ Bienvenue sur mon espace GitHub.
 Je suis étudiant en dernière année à **CY Tech**, spécialité **Intelligence Artificielle et Data Science**.  
 Je m’intéresse particulièrement à la **modélisation**, à la **compréhension des données** et à la **création d’outils intelligents** qui répondent à des problématiques concrètes.  
 
----
 
 ## À propos de moi
 
@@ -20,7 +19,6 @@ J’aime concevoir des outils, tester des approches, et surtout comprendre pourq
 Aujourd’hui à CY Tech, je me spécialise en Intelligence Artificielle et Data Science.
 Mon objectif est simple : apprendre toujours plus, expérimenter, et créer des solutions fiables, claires et intelligentes — des projets qui parlent autant aux ingénieurs qu’aux utilisateurs.
 
----
 
 ## Projets récents
 
@@ -31,7 +29,6 @@ Mon objectif est simple : apprendre toujours plus, expérimenter, et créer des 
 | [Analyse de sentiments sur Twitter](https://github.com/Iyad-78/Spark-Scala-Project-Sentiment-Analysis-from-a-Twitter-Dataset-) | Classification automatique de tweets (positif, neutre, négatif) à l’aide de Spark MLlib. | Spark, Scala |
 
 
----
 
 ## En quelques mots
 
@@ -43,7 +40,6 @@ C’est cette approche qui me guide aujourd’hui dans mon parcours à CY Tech, 
 
 Mon objectif : concevoir des solutions fiables, intelligentes et accessibles, capables de rendre la donnée vraiment parlante.
 
----
 
 ## Contact
 
