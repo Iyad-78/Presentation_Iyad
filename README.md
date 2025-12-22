@@ -1,48 +1,44 @@
-# Bonjour, je suis **Iyad Ben Mosbah**
+Bonjour, je suis Iyad Ben Mosbah
 
-Bienvenue sur mon espace GitHub.  
-Je suis étudiant en dernière année à **CY Tech**, spécialité **Intelligence Artificielle et Data Science**.  
-Je m’intéresse particulièrement à la **modélisation**, à la **compréhension des données** et à la **création d’outils intelligents** qui répondent à des problématiques concrètes.  
+Bienvenue sur mon espace GitHub.
+Je suis étudiant en dernière année à CY Tech, spécialité Intelligence Artificielle et Data Science.
+Je m’intéresse particulièrement à la modélisation, à la compréhension des données et à la conception de solutions intelligentes répondant à des problématiques concrètes.
 
+À propos de moi
 
-## À propos de moi
+Depuis toujours, j’ai ce réflexe de vouloir comprendre comment les choses fonctionnent : observer, analyser, relier.
+Avec le temps, cette curiosité s’est transformée en un intérêt marqué pour la donnée — ce qu’elle contient, ce qu’elle révèle et comment elle peut être exploitée de manière pertinente.
 
-Depuis toujours, j’ai ce réflexe de vouloir comprendre comment les choses marchent — démonter, observer, relier.
-Avec le temps, cette curiosité s’est transformée en une vraie passion pour la donnée : comprendre ce qu’elle cache, ce qu’elle révèle, et comment elle peut aider à mieux décider.
+J’apprécie autant la rigueur des modèles que la réflexion nécessaire pour les appliquer à des problèmes réels.
+Pour moi, l’intelligence artificielle et la data science ne se résument pas à entraîner des modèles, mais à structurer un raisonnement, faire des choix techniques justifiés et analyser les résultats de manière critique.
 
-J’aime la logique des algorithmes autant que la créativité qu’il faut pour résoudre un problème réel.
-Pour moi, la data science n’est pas qu’une histoire de modèles ou de code : c’est une manière de donner du sens à la complexité et de transformer une idée en quelque chose de concret et utile.
+Aujourd’hui à CY Tech, je me spécialise en IA et Data Science, avec l’objectif de développer des solutions fiables, compréhensibles et utiles, tout en consolidant mes bases en machine learning, deep learning et data engineering.
 
-Ce que je cherche avant tout, c’est cet équilibre entre la rigueur scientifique et la curiosité technique.
-J’aime concevoir des outils, tester des approches, et surtout comprendre pourquoi certaines fonctionnent mieux que d’autres.
+Projets récents
+Projet	Description	Technologies
+Image Inpainting par U-Net (code non public)	Projet de Deep Learning visant à résoudre le problème de la reconstruction de zones masquées dans des images. Comparaison U-Net Vanilla vs Partial Convolution sur le dataset CelebA, avec une amélioration nette des performances grâce à la Partial Convolution (L1 et PSNR). Le code n’est pas public car réalisé dans un cadre académique encadré.	PyTorch
+Retrieval-Augmented Generation (RAG) (en cours)	Conception d’un système de question-réponse sur documents combinant recherche sémantique par embeddings et génération par LLM. Implémentation d’une baseline sans retrieval, analyse des erreurs et exploration d’extensions (recherche hybride, reranking).	Python, NLP, LLMs
+Analyse d’images d’herbiers avec CrossViT (en préparation)	Projet de vision par Transformers visant à améliorer la classification d’images d’herbiers bruitées. Étude de l’impact de la segmentation, pondération par patch et analyse de l’interprétabilité via cartes d’attention.	PyTorch, Vision Transformers
+Architecture Big Data de bout en bout	Mise en place d’une architecture Data complète : stockage dans un Data Lake (MinIO), ingestion distribuée avec Spark/Scala, modélisation analytique en SQL et analyse exploratoire des données.	Spark, Scala, SQL, Docker
+PFE – Gestion intelligente de la recharge des véhicules électriques (en cours de cadrage)	Projet de fin d’études portant sur l’optimisation de la planification de la recharge des véhicules électriques à partir de données de mobilité. Étude d’une approche prédictive locale et d’une coordination multi-véhicules via Federated Learning.	PyTorch, Federated Learning
+À propos du code
 
-Aujourd’hui à CY Tech, je me spécialise en Intelligence Artificielle et Data Science.
-Mon objectif est simple : apprendre toujours plus, expérimenter, et créer des solutions fiables, claires et intelligentes.
+Certains projets, notamment en Deep Learning et Vision, ont été réalisés dans un cadre académique encadré ou reposent sur des jeux de données soumis à des restrictions de diffusion.
+Pour cette raison, l’intégralité du code n’est pas rendue publique, mais les objectifs, méthodologies et résultats sont présentés de manière transparente.
 
+Les projets publiés ici reflètent avant tout ma manière de travailler : structurer un problème, justifier les choix techniques et analyser les résultats avec recul.
 
-## Projets récents
+En quelques mots
 
-| Projet | Description | Technologies |
-|---------|--------------|---------------|
-| Reconstruction d’images (U-Net) *(à venir)* | Développement d’un modèle de Deep Learning pour reconstituer des images masquées du dataset CelebA. | PyTorch |
-| [Désambiguïsation d’inventeurs dans les brevets](https://github.com/Iyad-78/Desambiguisation-d-inventeurs-dans-les-bases-de-donnees-de-brevets)) | Conception d’un pipeline Python/SQL pour regrouper automatiquement les différentes mentions d’un même inventeur dans une base de plusieurs millions de brevets. | Python, SQL Server |
-| [Analyse de sentiments sur Twitter](https://github.com/Iyad-78/Spark-Scala-Project-Sentiment-Analysis-from-a-Twitter-Dataset-) | Classification automatique de tweets (positif, neutre, négatif) à l’aide de Spark MLlib. | Spark, Scala |
+Je vois la data comme un outil pour comprendre, structurer et décider.
+Chaque projet est pour moi une occasion d’apprendre, d’expérimenter et de confronter une approche théorique à un problème réel.
 
+Mon objectif est de continuer à développer des solutions claires, robustes et intelligentes, en gardant toujours un esprit critique sur les modèles et les données que j’utilise.
 
+Contact
 
-## En quelques mots
+📧 iyadbenmosbah@gmail.com
 
-Pour moi, la donnée n’a de sens que si elle sert à comprendre et à faire progresser les choses.
-Chaque projet est l’occasion d’apprendre, de tester, et surtout de transformer une idée en résultat concret.
+🔗 LinkedIn
 
-J’aime que mes analyses soient claires, que mes modèles soient utiles, et que mes outils racontent quelque chose de cohérent.
-C’est cette approche qui me guide aujourd’hui dans mon parcours à CY Tech, où je me forme en data science, en machine learning et en développement logiciel.
-
-Mon objectif : concevoir des solutions fiables, intelligentes et accessibles, capables de rendre la donnée vraiment parlante.
-
-
-## Contact
-
-📧 [iyadbenmosbah@gmail.com](mailto:iyadbenmosbah@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/iyad-ben-mosbah-b75354294/)  
 📍 Vélizy-Villacoublay (Île-de-France)
