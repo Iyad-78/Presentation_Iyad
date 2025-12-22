@@ -17,7 +17,7 @@ Ce que je cherche avant tout, c’est cet équilibre entre la rigueur scientifiq
 J’aime concevoir des outils, tester des approches, et surtout comprendre pourquoi certaines fonctionnent mieux que d’autres.
 
 Aujourd’hui à CY Tech, je me spécialise en Intelligence Artificielle et Data Science.
-Mon objectif est simple : apprendre toujours plus, expérimenter, et créer des solutions fiables, claires et intelligentes — des projets qui parlent autant aux ingénieurs qu’aux utilisateurs.
+Mon objectif est simple : apprendre toujours plus, expérimenter, et créer des solutions fiables, claires et intelligentes.
 
 
 ## Projets récents
