@@ -18,11 +18,11 @@ Aujourd’hui à CY Tech, je me spécialise en **IA et Data Science**, avec l’
 
 | Projet | Description | Technologies |
 |------|-------------|--------------|
-| **Image Inpainting par U-Net** *(code non public)* | Projet de Deep Learning visant à résoudre le problème de la reconstruction de zones masquées dans des images. Comparaison **U-Net Vanilla vs Partial Convolution** sur le dataset CelebA, avec une amélioration nette des performances grâce à la Partial Convolution (L1 et PSNR). Le code n’est pas public car réalisé dans un cadre académique encadré. | PyTorch |
+| **PFE – Optimisation de la Gestion intelligente de la recharge des véhicules électriques** *(en cours de cadrage)* | Projet de fin d’études portant sur l’optimisation de la planification de la recharge des véhicules électriques à partir de données de mobilité. Étude d’une approche prédictive locale et d’une coordination multi-véhicules via Federated Learning. | PyTorch, Federated Learning |
 | **Retrieval-Augmented Generation (RAG)** *(en cours)* | Conception d’un système de question-réponse sur documents combinant recherche sémantique par embeddings et génération par LLM. Implémentation d’une baseline sans retrieval, analyse des erreurs et exploration d’extensions (recherche hybride, reranking). | Python, NLP, LLMs |
 | **Analyse d’images d’herbiers avec CrossViT** *(en cours / code non public)* | Projet de vision par Transformers visant à améliorer la classification d’images d’herbiers bruitées. Étude de l’impact de la segmentation, pondération par patch et analyse de l’interprétabilité via cartes d’attention. | PyTorch, Vision Transformers |
 | **Architecture Big Data appliquée à un jeu de données choisi** *(en cours)* | Mise en place d’une architecture Data complète : stockage dans un Data Lake (MinIO), ingestion distribuée avec Spark/Scala, modélisation analytique en SQL et analyse exploratoire des données. | Spark, Scala, SQL, Docker |
-| **PFE – Gestion intelligente de la recharge des véhicules électriques** *(en cours de cadrage)* | Projet de fin d’études portant sur l’optimisation de la planification de la recharge des véhicules électriques à partir de données de mobilité. Étude d’une approche prédictive locale et d’une coordination multi-véhicules via Federated Learning. | PyTorch, Federated Learning |
+| **Image Inpainting par U-Net** | Projet de Deep Learning visant à résoudre le problème de la reconstruction de zones masquées dans des images. Comparaison **U-Net Vanilla vs Partial Convolution** sur le dataset CelebA, avec une amélioration nette des performances grâce à la Partial Convolution (L1 et PSNR). Le code n’est pas public car réalisé dans un cadre académique encadré. | PyTorch |
 
 ## À propos du code
 
