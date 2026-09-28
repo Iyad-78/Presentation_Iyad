@@ -1,45 +1,59 @@
 # Bonjour, je suis **Iyad Ben Mosbah**
 
-Bienvenue sur mon espace GitHub.  
-Je suis étudiant en dernière année à **CY Tech**, spécialité **Intelligence Artificielle et Data Science**.  
-Je m’intéresse particulièrement à la **modélisation**, à la **compréhension des données** et à la **conception de solutions intelligentes** répondant à des problématiques concrètes.
+Bienvenue sur mon GitHub.
+
+Je suis en dernière année du cycle ingénieur à **CY Tech**, spécialisé en **Intelligence Artificielle et Data Science**, et actuellement en stage de fin d’études chez **Crédit Agricole CIB**.
+
+Je m’intéresse particulièrement à la conception de solutions à la croisée de l’**IA, de la Data et du développement logiciel**, avec une attention particulière portée à leur fiabilité, leur industrialisation et leur utilisation sur des problématiques concrètes.
 
 ## À propos de moi
 
-Depuis toujours, j’ai ce réflexe de vouloir comprendre comment les choses fonctionnent : observer, analyser, relier.  
-Avec le temps, cette curiosité s’est transformée en un intérêt marqué pour la donnée — ce qu’elle contient, ce qu’elle révèle et comment elle peut être exploitée de manière pertinente.
+J’ai toujours eu le réflexe de chercher à comprendre comment les choses fonctionnent : observer, analyser, relier les informations et essayer d’en extraire quelque chose d’utile.
 
-J’apprécie autant la rigueur des modèles que la réflexion nécessaire pour les appliquer à des problèmes réels.  
-Pour moi, l’intelligence artificielle et la data science ne se résument pas à entraîner des modèles, mais à structurer un raisonnement, faire des choix techniques justifiés et analyser les résultats de manière critique.
+Cette curiosité m’a progressivement conduit vers la Data Science et l’Intelligence Artificielle, mais également vers le développement logiciel et l’industrialisation des solutions.
 
-Aujourd’hui à CY Tech, je me spécialise en **IA et Data Science**, avec l’objectif de développer des solutions **fiables, compréhensibles et utiles**, tout en consolidant mes bases en machine learning, deep learning et data engineering.
+Je réalise actuellement mon stage de fin d’études chez **Crédit Agricole CIB**, au sein d’une équipe travaillant sur une **Data Platform ESG**. J’y contribue notamment à l’industrialisation et à l’automatisation des tests, au contrôle de non-régression et à l’exploration de solutions d’IA pour améliorer la détection d’anomalies, la génération de données de test et la fiabilité des mises en production.
+
+En parallèle, mes projets personnels et académiques me permettent d’explorer différentes problématiques en **Machine Learning, Deep Learning, NLP, LLM et Data Engineering**.
+
+Mon objectif est de développer des solutions qui ne se limitent pas à un modèle, mais qui intègrent également les problématiques de données, de développement, d’évaluation et d’industrialisation.
 
 ## Projets récents
 
 | Projet | Description | Technologies |
 |------|-------------|--------------|
-| **PFE – Optimisation de la Gestion intelligente de la recharge des véhicules électriques** *(en cours de cadrage)* | Projet de fin d’études portant sur l’optimisation de la planification de la recharge des véhicules électriques à partir de données de mobilité. Étude d’une approche prédictive locale et d’une coordination multi-véhicules via Federated Learning. | PyTorch, Federated Learning |
-| **Retrieval-Augmented Generation (RAG)** *(en cours)* | Conception d’un système de question-réponse sur documents combinant recherche sémantique par embeddings et génération par LLM. Implémentation d’une baseline sans retrieval, analyse des erreurs et exploration d’extensions (recherche hybride, reranking). | Python, NLP, LLMs |
-| **Analyse d’images d’herbiers avec CrossViT** *(en cours / code non public)* | Projet de vision par Transformers visant à améliorer la classification d’images d’herbiers bruitées. Étude de l’impact de la segmentation, pondération par patch et analyse de l’interprétabilité via cartes d’attention. | PyTorch, Vision Transformers |
-| **Architecture Big Data appliquée à un jeu de données choisi** *(en cours)* | Mise en place d’une architecture Data complète : stockage dans un Data Lake (MinIO), ingestion distribuée avec Spark/Scala, modélisation analytique en SQL et analyse exploratoire des données. | Spark, Scala, SQL, Docker |
-| **Image Inpainting par U-Net** | Projet de Deep Learning visant à résoudre le problème de la reconstruction de zones masquées dans des images. Comparaison **U-Net Vanilla vs Partial Convolution** sur le dataset CelebA, avec une amélioration nette des performances grâce à la Partial Convolution (L1 et PSNR). | PyTorch |
+| **Notation de performances de footballeurs** *(en cours)* | Développement d’un système de notation de joueurs à partir de données événementielles StatsBomb. Construction d’un pipeline de données, modélisation de la probabilité et de la valeur des actions, comparaison d’approches classiques et séquentielles. | Python, LightGBM, GRU, Transformers |
+| **Retrieval-Augmented Generation (RAG)** | Conception d’un système de question-réponse documentaire avec préparation du corpus, indexation vectorielle et génération par LLM. Comparaison de plusieurs approches et analyse de la pertinence des réponses. | Python, NLP, LLM, FAISS, Streamlit |
+| **Analyse d’images d’herbiers avec CrossViT** | Classification d’images d’herbiers bruitées à l’aide de Vision Transformers. Étude de l’impact de la segmentation et analyse de l’interprétabilité via des cartes d’attention. | PyTorch, Vision Transformers |
+| **Architecture Big Data** | Mise en place d’une architecture Data avec stockage dans un Data Lake, ingestion distribuée, transformations et exploitation analytique des données. | Spark, Scala, SQL, Docker |
+| **Image Inpainting par U-Net** | Reconstruction de zones masquées dans des images et comparaison d’une architecture U-Net classique avec une approche Partial Convolution sur CelebA. | PyTorch |
+
+## Stack technique
+
+**Langages :** Python, Java, SQL, Scala  
+**IA / Data Science :** Machine Learning, Deep Learning, NLP, LLM  
+**Frameworks :** PyTorch, TensorFlow, scikit-learn  
+**Data :** Spark, PostgreSQL  
+**Backend :** FastAPI, Django, API REST  
+**Engineering :** Docker, Git, CI/CD, MLflow, Kubernetes  
+**Testing / Automation :** Playwright, Java / Spring Boot
 
 ## À propos du code
 
-Certains projets, notamment en **Deep Learning**, ont été réalisés dans un cadre académique encadré ou reposent sur des jeux de données soumis à des restrictions de diffusion.  
-Pour cette raison, l’intégralité du code n’est pas rendue publique, mais les **objectifs, méthodologies et résultats** sont présentés de manière transparente.
+Certains projets ont été réalisés dans un cadre académique ou professionnel et ne peuvent donc pas être publiés intégralement.
 
-Les projets publiés ici reflètent avant tout ma manière de travailler : structurer un problème, justifier les choix techniques et analyser les résultats avec recul.
+Lorsque le code n’est pas disponible, je cherche néanmoins à présenter clairement les **objectifs, choix techniques, méthodologies et résultats** afin de montrer la démarche suivie.
+
+Les projets présents ici reflètent avant tout ma façon de travailler : comprendre un problème, structurer une solution, expérimenter, comparer les approches et analyser les résultats avec recul.
 
 ## En quelques mots
 
-Je vois la data comme un outil pour **comprendre**, **structurer** et **décider**.  
-Chaque projet est pour moi une occasion d’apprendre, d’expérimenter et de confronter une approche théorique à un problème réel.
+Je m’intéresse particulièrement aux projets mêlant **IA, Data et Software Engineering**, qu’il s’agisse de construire des modèles, des pipelines de données, des applications basées sur les LLM ou des outils permettant d’industrialiser et de fiabiliser des systèmes existants.
 
-Mon objectif est de continuer à développer des solutions claires, robustes et intelligentes, en gardant toujours un esprit critique sur les modèles et les données que j’utilise.
+Je recherche actuellement un **CDI à partir de janvier 2027**, principalement dans les domaines de l’**Intelligence Artificielle, de la Data et du Software Engineering**.
 
 ## Contact
 
 📧 iyadbenmosbah@gmail.com  
-🔗 LinkedIn  
-📍 Vélizy-Villacoublay (Île-de-France)
+🔗 [LinkedIn](TON_LIEN_LINKEDIN)  
+📍 Île-de-France
